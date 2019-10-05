@@ -20,14 +20,9 @@ library(MuMIn)
 options("kableExtra.html.bsTable" = T)
 ```
 
-## ¿Quién es el degú?
-<span style="color:purple"> _Octodon degus_ es un roedor endémico de la zona central de Chile. Las características más relevantes que lo hacen ser nuestro modelo de estudio es:
+## <span style="color:purple"> _Octodon degus_ & **Cooperación**</span>
+![](degu.jpeg)
 
-- Social
-- Presenta crianza comunal de las crias: **cooperación**
-- Promiscuo
-
-</span>
 
 
 ## Pregunta biológica
